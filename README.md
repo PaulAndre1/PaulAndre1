@@ -6,7 +6,7 @@
 
 ## Acerca de mí
 
-Soy un apasionado/a del desarrollo de software y la ciencia de datos. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes. ¡Echa un vistazo a algunos de mis proyectos!
+Soy un apasionado del desarrollo de software y la ciencia de datos. Me encanta aprender cosas nuevas y colaborar en proyectos interesantes. ¡Echa un vistazo a algunos de mis proyectos!
 
 ## 🚀 Tecnologías y Herramientas
 
