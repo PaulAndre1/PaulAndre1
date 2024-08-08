@@ -22,6 +22,8 @@ Soy un apasionado del desarrollo de software y la ciencia de datos. Me encanta a
 
 - Machine Learning
 - Data Science
+- HTML
+- CSS
 
 
 ## 📫 Cómo contactarme
